@@ -52,6 +52,9 @@ const API_BASE = 'http://10.0.2.2:8000/api';
 // For physical device (same Wi-Fi)
 // const API_BASE = 'http://192.168.1.100:8000/api';
 
+// For Web
+// const API_BASE = 'http://127.0.0.1:8000/api';
+
 
 ⚠️ Make sure backend Laravel is running and accessible at that IP.
 
