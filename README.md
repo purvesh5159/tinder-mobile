@@ -21,6 +21,7 @@ Uses Expo, React Query, and Recoil.
 ---
 
 ## 🛠️ Requirements
+- React Native
 - Node.js >= 18
 - npm >= 9
 - Expo CLI
